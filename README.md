@@ -190,9 +190,3 @@ I wanted to build a lightweight AI image-generation service without relying on a
 
 **Tarannum Khan**
 *AI Automation Engineer*
-
----
-
-## 📄 License
-
-This project is available for personal and educational use. Add a license file (e.g., MIT) if you plan to open-source it publicly.
